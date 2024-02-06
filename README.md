@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/r7lpd82bxmeoico8?svg=true)](https://ci.appveyor.com/project/VMoiseev/ra-color-converter)
+## [Проект](https://vmoiseev.github.io/ra-color-converter/)
+
 Конвертер цветов из HEX в RGB
 ===
 
