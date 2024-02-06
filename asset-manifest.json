@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-color-converter/static/css/main.5f0271e6.css",
+    "main.js": "/ra-color-converter/static/js/main.06d09fd8.js",
+    "index.html": "/ra-color-converter/index.html",
+    "main.5f0271e6.css.map": "/ra-color-converter/static/css/main.5f0271e6.css.map",
+    "main.06d09fd8.js.map": "/ra-color-converter/static/js/main.06d09fd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f0271e6.css",
+    "static/js/main.06d09fd8.js"
+  ]
+}
